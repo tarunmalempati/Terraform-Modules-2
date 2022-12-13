@@ -93,7 +93,3 @@ terraform output -json > output_values.json
 terraform output > output_values.txt
 ```
 
-Authors
-=======
-
-**Originally created and maintained by [RUDRA LAKSHMI PHANINDRA](https://github.com/phani-rudra9)**
